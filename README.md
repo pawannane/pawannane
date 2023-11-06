@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **pawannane23@gmail.com**
 
-- 📄 Know about my experiences [https://pawannane.com](https://pawannane.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pawannane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawannane" height="30" width="40" /></a>
